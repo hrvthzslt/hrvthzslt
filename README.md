@@ -27,6 +27,7 @@ Software Developer by day, Linux Hobbyist by night. Making keyboards cry since 2
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hrvthzslt&repo=desktop&theme=transparent)](https://github.com/hrvthzslt/desktop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hrvthzslt&repo=personal-site&theme=transparent)](https://github.com/hrvthzslt/personal-site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hrvthzslt&repo=my-dos&theme=transparent)](https://github.com/hrvthzslt/my-dos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hrvthzslt&repo=qmk-layouts&theme=transparent)](https://github.com/hrvthzslt/qmk-layouts)
 
 ### Education / Presentation
 
