@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Developer by day, Linux Hobbyist by night. Making keyboards cry since 2013.
+Software Developer by day, Linux Hobbyist by night. Making keyboards cry (professionally) since 2013.
 
 **[My Experiences](https://zsolthorvath.xyz/resume/)**
 
