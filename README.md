@@ -71,3 +71,7 @@ Implemented `array_search`, `strrev`, `strtolower` with a help of `CharacterChai
 A small _proof of concept_ to show how easy it is to make a chat model that talks in rhymes.
 
 It's created with **ollama** running in a **Docker** container. GPU support is not considered.
+
+**[Transloth](https://github.com/hrvthzslt/transloth)**
+
+API for translating text between languages, using **ollama** and **FastAPI**. Development environment in **Docker**.
