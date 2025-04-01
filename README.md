@@ -34,6 +34,10 @@ Sets up development environment for **Python/Conda**, **PHP**, **NodeJs**, **Go*
 
 My custom desktop setup based on **suckless** tools, built around **dwm**. Built for **Debian**-based distributions, automated with **Ansible**.
 
+**[Mini Dots](https://github.com/hrvthzslt/mini-dots)**
+
+Minimalist dotfiles for **vim**, **ctags**, **tmux**, without any plugin. Automated with **POSIX** compliant shell scripts, organized in a **Makefile**.
+
 **[Personal Site](https://github.com/hrvthzslt/personal-site)**
 
 Personal site for my **resume** and **blog** posts with questionable quality, about my ...personal interests. Created with **Hugo** and **beautifulhugo** theme, hosted on **Netfily**.
