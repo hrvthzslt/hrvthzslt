@@ -40,7 +40,7 @@ Minimalist dotfiles for **vim**, **ctags**, **tmux**, without any plugin. Automa
 
 **[Personal Site](https://github.com/hrvthzslt/personal-site)**
 
-Personal site for my **resume** and **blog** posts with questionable quality, about my ...personal interests. Created with **Hugo** and **beautifulhugo** theme, hosted on **Netfily**.
+Personal site for my **resume** and **blog** posts with questionable quality, about my ...personal interests. Created with **Hugo** and hosted on **Netfily**.
 
 **[My DOS](https://github.com/hrvthzslt/my-dos)**
 
@@ -69,6 +69,12 @@ Simple server for rendering **HTML** from **Markdown** with **Flask**.
 Implementing palindrome solution in **PHP** gone too far.
 
 Implemented `array_search`, `strrev`, `strtolower` with a help of `CharacterChain` class which represents simple array of characters.
+
+**[It's a UNIX system! I know this!](https://github.com/hrvthzslt/its-a-unix-system)**
+
+An **Almost** Gentle Introduction to the Command Line, not to **UNIX** but to **UNIX-like** operating systems.
+
+Presentable in the command line with **slides**. I recommend **tmux** for splitting a pane for the presentation and another one for the command line.
 
 **[VERSe](https://github.com/hrvthzslt/verse)**
 
