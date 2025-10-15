@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Software Developer by day, Linux Hobbyist by night. Making keyboards cry (professionally) since 2013.
 
-**[My Experiences](https://zsolthorvath.xyz/resume/)**
+**[Tales of Computering™](https://zsolthorvath.xyz/)** and **[My Experiences](https://zsolthorvath.xyz/resume/)**
 
 ## Public Repositories
 
