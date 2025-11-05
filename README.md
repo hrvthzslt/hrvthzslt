@@ -28,11 +28,11 @@ Software Developer by day, Linux Hobbyist by night. Making keyboards cry (profes
 My $HOME my rules.
 Collection of my **dotfiles** and **toolbox scripts** for my development environment. Installation and config management automated with **Ansible**, for **Debian** based distributions.
 
-Sets up development environment for **Python/Conda**, **PHP**, **NodeJs**, **Go**, **Docker**. Installs CLI tools with **nix package manager**.
+Sets up development environment for **Python**, **PHP**, **NodeJs**, **Go**, **Docker**. Installs CLI tools with **nix package manager**.
 
 **[Desktop](https://github.com/hrvthzslt/desktop)**
 
-My custom desktop setup based on **suckless** tools, built around **dwm**. Built for **Debian**-based distributions, automated with **Ansible**.
+My custom desktop setup based on **suckless** tools, built around **dwm**. Automated with **Ansible**, for **Debian**-based distributions.
 
 **[Mini Dots](https://github.com/hrvthzslt/mini-dots)**
 
@@ -49,6 +49,10 @@ My tribute for my own early days of computing, creating a x86 experience in **do
 **[QMK Layouts](https://github.com/hrvthzslt/qmk-layouts)**
 
 Automating the installation and setup of QMK on **Debian**-based systems, and flashing firmware with my own **custom keymap** layouts.
+
+**[SysPerc](https://github.com/hrvthzslt/sysperc)**
+
+A collection of **Linux commands** for displaying system information as percentages, provided by a **Polymorphic Executable** written in C.
 
 ### Education / Presentation
 
