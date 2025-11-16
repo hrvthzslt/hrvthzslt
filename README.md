@@ -38,6 +38,10 @@ My custom desktop setup based on **suckless** tools, built around **dwm**. Autom
 
 Minimalist dotfiles for **vim**, **ctags**, **tmux**, without any plugin. Automated with **POSIX** compliant shell scripts, organized in a **Makefile**.
 
+**[SysPerc](https://github.com/hrvthzslt/sysperc)**
+
+A collection of **Linux commands** for displaying system information as percentages, provided by a **Polymorphic Executable** written in C.
+
 **[Personal Site](https://github.com/hrvthzslt/personal-site)**
 
 Personal site for my **resume** and **blog** posts with questionable quality, about my ...personal interests. Created with **Hugo** and hosted on **Netfily**.
@@ -50,29 +54,12 @@ My tribute for my own early days of computing, creating a x86 experience in **do
 
 Automating the installation and setup of QMK on **Debian**-based systems, and flashing firmware with my own **custom keymap** layouts.
 
-**[SysPerc](https://github.com/hrvthzslt/sysperc)**
-
-A collection of **Linux commands** for displaying system information as percentages, provided by a **Polymorphic Executable** written in C.
-
 ### Education / Presentation
 
 **[Ansible Introduction](https://github.com/hrvthzslt/ansible-introduction)**
 
 A Very Aggressively Simple Introduction to **Ansible** with the help of **Docker**.
 
-**[Flask Structure](https://github.com/hrvthzslt/flask-structure)**
-
-Example for separating parts of a **Flask** project for better _maintainability_ and _scalability_ in an aggressively simple way.
-
-**[Markdown Server in Flask](https://github.com/hrvthzslt/markdown-server-flask)**
-
-Simple server for rendering **HTML** from **Markdown** with **Flask**.
-
-**[Palindrome](https://github.com/hrvthzslt/palindrome)**
-
-Implementing palindrome solution in **PHP** gone too far.
-
-Implemented `array_search`, `strrev`, `strtolower` with a help of `CharacterChain` class which represents simple array of characters.
 
 **[It's a UNIX system! I know this!](https://github.com/hrvthzslt/its-a-unix-system)**
 
@@ -89,3 +76,17 @@ It's created with **ollama** running in a **Docker** container. GPU support is n
 **[Transloth](https://github.com/hrvthzslt/transloth)**
 
 API for translating text between languages, using **ollama** and **FastAPI**. Development environment in **Docker**.
+
+**[Flask Structure](https://github.com/hrvthzslt/flask-structure)**
+
+Example for separating parts of a **Flask** project for better _maintainability_ and _scalability_ in an aggressively simple way.
+
+**[Markdown Server in Flask](https://github.com/hrvthzslt/markdown-server-flask)**
+
+Simple server for rendering **HTML** from **Markdown** with **Flask**.
+
+**[Palindrome](https://github.com/hrvthzslt/palindrome)**
+
+Implementing palindrome solution in **PHP** gone too far.
+
+Implemented `array_search`, `strrev`, `strtolower` with a help of `CharacterChain` class which represents simple array of characters.
