@@ -36,7 +36,7 @@ My custom desktop setup based on **suckless** tools, built around **dwm**. Autom
 
 **[Mini Dots](https://github.com/hrvthzslt/mini-dots)**
 
-Minimalist dotfiles for **vim**, **ctags**, **tmux**, without any plugin. Automated with **POSIX** compliant shell scripts, organized in a **Makefile**.
+Minimalist dotfiles for **vim** and **tmux**, without any plugin. Automated with **POSIX** compliant shell scripts, organized in a **Makefile**.
 
 **[SysPerc](https://github.com/hrvthzslt/sysperc)**
 
@@ -60,18 +60,11 @@ Automating the installation and setup of QMK on **Debian**-based systems, and fl
 
 A Very Aggressively Simple Introduction to **Ansible** with the help of **Docker**.
 
-
 **[It's a UNIX system! I know this!](https://github.com/hrvthzslt/its-a-unix-system)**
 
 An **Almost** Gentle Introduction to the Command Line, not to **UNIX** but to **UNIX-like** operating systems.
 
 Presentable in the command line with **slides**. I recommend **tmux** for splitting a pane for the presentation and another one for the command line.
-
-**[VERSe](https://github.com/hrvthzslt/verse)**
-
-A small _proof of concept_ to show how easy it is to make a chat model that talks in rhymes.
-
-It's created with **ollama** running in a **Docker** container. GPU support is not considered.
 
 **[Transloth](https://github.com/hrvthzslt/transloth)**
 
