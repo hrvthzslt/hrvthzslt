@@ -1,20 +1,5 @@
 # Zsolt Horváth
 
-<!--
-**hrvthzslt/hrvthzslt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Software Developer by day, Linux Hobbyist by night. Making keyboards cry (professionally) since 2013.
 
 **[Tales of Computering™](https://zsolthorvath.xyz/)** and **[My Experiences](https://zsolthorvath.xyz/resume/)**
@@ -28,7 +13,7 @@ Software Developer by day, Linux Hobbyist by night. Making keyboards cry (profes
 My $HOME my rules.
 Collection of my **dotfiles** and **toolbox scripts** for my development environment. Installation and config management automated with **Ansible**, for **Debian** based distributions.
 
-Sets up development environment for **Python**, **PHP**, **NodeJs**, **Go**, **Docker**. Installs CLI tools with **nix package manager**.
+Sets up development environment for **Python**, **PHP**, **Node.js**, **Go**, **Docker**. Installs CLI tools with **nix package manager**.
 
 **[Desktop](https://github.com/hrvthzslt/desktop)**
 
@@ -69,6 +54,10 @@ Presentable in the command line with **slides**. I recommend **tmux** for splitt
 **[Transloth](https://github.com/hrvthzslt/transloth)**
 
 API for translating text between languages, using **ollama** and **FastAPI**. Development environment in **Docker**.
+
+**[Markdown MCP Server](https://github.com/hrvthzslt/markdown-mcp)**
+
+A **Node.js** MCP Server for providing tools to search and read Markdown files recursively.
 
 **[Flask Structure](https://github.com/hrvthzslt/flask-structure)**
 
