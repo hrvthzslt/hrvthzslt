@@ -2,7 +2,7 @@
 
 Software Developer by day, Linux Hobbyist by night. Making keyboards cry (professionally) since 2013.
 
-**[Tales of Computering™](https://zsolthorvath.xyz/)** and **[My Experiences](https://zsolthorvath.xyz/resume/)**
+**[Tales of Computering™](https://talesofcomputering.com/)** and **[My Experiences](https://talesofcomputering.com/resume/)**
 
 ## Public Repositories
 
