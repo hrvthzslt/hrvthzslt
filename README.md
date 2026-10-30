@@ -17,7 +17,7 @@ Sets up development environment for **Python**, **PHP**, **Node.js**, **Go**, **
 
 **[Desktop](https://github.com/hrvthzslt/desktop)**
 
-My custom desktop setup based on **suckless** tools, built around **dwm**. Automated with **Ansible**, for **Debian**-based distributions.
+My custom desktop setup based on **suckless** tools, built around **dwm**. Automated with **Ansible**, for **Debian**-based distributions and **Fedora**.
 
 **[Mini Dots](https://github.com/hrvthzslt/mini-dots)**
 
@@ -33,11 +33,11 @@ Personal site for my **resume** and **blog** posts with questionable quality, ab
 
 **[My DOS](https://github.com/hrvthzslt/my-dos)**
 
-My tribute for my own early days of computing, creating a x86 experience in **dosbox staging**, for **Debian** based distributions, automated with **Ansible**.
+My tribute for my own early days of computing, creating a x86 experience in **dosbox staging**, for **Debian** based distributions, also **Fedora**, automated with **Ansible**.
 
 **[QMK Layouts](https://github.com/hrvthzslt/qmk-layouts)**
 
-Automating the installation and setup of QMK on **Debian**-based systems, and flashing firmware with my own **custom keymap** layouts.
+Automating the installation and setup of QMK on **Debian**-based systems and **Fedora**, and flashing firmware with my own **custom keymap** layouts.
 
 ### Education / Presentation
 
